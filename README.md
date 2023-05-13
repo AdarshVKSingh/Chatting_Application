@@ -6,3 +6,4 @@ It is a chatting application developed using express and socket.io. It allows us
 https://chatting-application1.onrender.com
 
 #you can join in chat_room from available list of chat_room and chat only with the people present inside that room .
+#chat_room interface is similar to whatsapp's group chat
